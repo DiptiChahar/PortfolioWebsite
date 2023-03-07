@@ -1,0 +1,99 @@
+html {
+   position: absolute;
+width: 1100px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(225.8deg, rgba(77, 37, 240, 0.15) 0%, rgba(168, 30, 225, 0.137522) 0.01%, rgba(164, 18, 225, 0.137522) 0.02%, rgba(183, 19, 222, 0.128613) 0.03%, rgba(11, 75, 241, 0.1335) 0.04%, rgba(57, 12, 220, 0.124561) 0.05%, rgba(153, 14, 219, 0.122872) 0.06%, rgba(207, 20, 215, 0.112945) 97.12%, rgba(220, 22, 214, 0.110486) 100%, rgba(217, 21, 215, 0.111138) 99.93%, rgba(201, 19, 216, 0.114009) 99.94%, rgba(232, 22, 225, 0.110486) 99.95%, rgba(220, 22, 214, 0.110486) 99.96%, rgba(233, 23, 212, 0.104358) 99.97%, rgba(196, 14, 233, 0.104358) 99.98%, rgba(217, 19, 234, 0.0885) 99.99%, rgba(136, 19, 228, 0) 100%);
+}
+h1 {
+   position: absolute;
+   width: 404px;
+   height: 101px;
+   left: 30px;
+   top: 1px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 63px;
+   letter-spacing: 0.02em;
+   color:black;
+}
+.links {
+   margin-left: 500px;
+   margin-top: 35px;
+ }
+ 
+a {
+   margin-right: 30px;
+   display: inline-block;
+   vertical-align: middle;
+   font-size: 20px;
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color:black;
+   text-decoration: none;
+   padding-left: 25px;
+   padding-right: 25px;
+   padding-top: 8px;
+   padding-bottom: 8px;
+   border-radius: 20px;
+   transition: 300ms;
+}
+
+a:hover {
+   color: white;
+   background-color: black;
+}
+h2 {
+position: absolute;
+width: 516px;
+height: 115px;
+left: 50px;
+top: 100px;
+
+font-family: 'Rowdies';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 75px;
+
+color: #000000;
+}
+
+* {box-sizing:border-box}
+
+ .skill {
+
+   position: absolute;
+   width: 1000px;
+   height: 100px;
+   left: 50px;
+   top: 250px;
+   
+   font-family: 'Rowdies';
+   font-style: normal;
+   font-weight: 200;
+   font-size: 30px;
+   line-height: 15px;
+}
+
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+  background-color: #a39e9e; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.html {width: 80%; background-color: #86eac5;} /* Green */
+.css {width: 60%; background-color: #6ea8d7;} /* Blue */
+.C {width: 90%; background-color: #dd6c64;} /* Red */
+.DSA {width: 50%; background-color: #c58181;} /*Dark Grey */
