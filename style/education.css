@@ -5,7 +5,8 @@ height: 800px;
 left: 0px;
 top: 0px;
 
-background: linear-gradient(225.8deg, rgba(77, 37, 240, 0.15) 0%, rgba(168, 30, 225, 0.137522) 0.01%, rgba(164, 18, 225, 0.137522) 0.02%, rgba(183, 19, 222, 0.128613) 0.03%, rgba(11, 75, 241, 0.1335) 0.04%, rgba(57, 12, 220, 0.124561) 0.05%, rgba(153, 14, 219, 0.122872) 0.06%, rgba(207, 20, 215, 0.112945) 97.12%, rgba(220, 22, 214, 0.110486) 100%, rgba(217, 21, 215, 0.111138) 99.93%, rgba(201, 19, 216, 0.114009) 99.94%, rgba(232, 22, 225, 0.110486) 99.95%, rgba(220, 22, 214, 0.110486) 99.96%, rgba(233, 23, 212, 0.104358) 99.97%, rgba(196, 14, 233, 0.104358) 99.98%, rgba(217, 19, 234, 0.0885) 99.99%, rgba(136, 19, 228, 0) 100%);
+background-image: linear-gradient(225.8deg, rgba(77, 37, 240, 0.15) 0%, rgba(168, 30, 225, 0.137522) 0.01%, rgba(164, 18, 225, 0.137522) 0.02%, rgba(183, 19, 222, 0.128613) 0.03%, rgba(11, 75, 241, 0.1335) 0.04%, rgba(57, 12, 220, 0.124561) 0.05%, rgba(153, 14, 219, 0.122872) 0.06%, rgba(207, 20, 215, 0.112945) 97.12%, rgba(220, 22, 214, 0.110486) 100%, rgba(217, 21, 215, 0.111138) 99.93%, rgba(201, 19, 216, 0.114009) 99.94%, rgba(232, 22, 225, 0.110486) 99.95%, rgba(220, 22, 214, 0.110486) 99.96%, rgba(233, 23, 212, 0.104358) 99.97%, rgba(196, 14, 233, 0.104358) 99.98%, rgba(217, 19, 234, 0.0885) 99.99%, rgba(136, 19, 228, 0) 100%);
+
 }
 h1 {
    position: absolute;
@@ -80,20 +81,20 @@ color: #000000;
    line-height: 15px;
 }
 
-/* Container for skill bars */
+
 .container {
-  width: 100%; /* Full width */
-  background-color: #a39e9e; /* Grey background */
+  width: 100%;
+  background-color: #a39e9e;
 }
 
 .skills {
-  text-align: right; /* Right-align text */
-  padding-top: 10px; /* Add top padding */
-  padding-bottom: 10px; /* Add bottom padding */
-  color: white; /* White text color */
+  text-align: right;
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  color: white;
 }
 
-.html {width: 80%; background-color: #86eac5;} /* Green */
-.css {width: 60%; background-color: #6ea8d7;} /* Blue */
-.C {width: 90%; background-color: #dd6c64;} /* Red */
-.DSA {width: 50%; background-color: #c58181;} /*Dark Grey */
+.html {width: 80%; background-color: #86eac5;}
+.css {width: 60%; background-color: #6ea8d7;}
+.C {width: 90%; background-color: #dd6c64;}
+.DSA {width: 50%; background-color: #c58181;}

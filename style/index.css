@@ -116,9 +116,9 @@ background: url(image.png);
    position: absolute;
    left: 88px;
    top: 710px;
-font-family: 'Rowdies';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 25px;
+   font-family: 'Rowdies';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 25px;
 }
