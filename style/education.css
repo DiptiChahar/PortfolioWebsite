@@ -85,7 +85,8 @@ color: #000000;
 
 .container {
   width: 100%;
-  background-color: #a39e9e;
+  background-color: #b5b2b2;
+  border-radius: 7px;
 }
 
 .skills {
@@ -95,7 +96,7 @@ color: #000000;
   color: white;
 }
 
-.html {width: 80%; background-color: #86eac5;}
-.css {width: 60%; background-color: #6ea8d7;}
+.html {width: 90%; background-color: #dd6c64;}
+.css {width: 60%; background-color: #dd6c64;}
 .C {width: 90%; background-color: #dd6c64;}
-.DSA {width: 50%; background-color: #c58181;}
+.DSA {width: 70%; background-color: #dd6c64;}
